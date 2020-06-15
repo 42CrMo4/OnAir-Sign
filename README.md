@@ -3,4 +3,4 @@
 
 ## Result
 
-![](result.gif)
+![](media/result.gif)
