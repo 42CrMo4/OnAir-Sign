@@ -31,6 +31,7 @@ This project consits of two Arduinos (Pro Mini, Nano or similar), LED Strips and
 1. Wire the components according to the schematics for the button and the sign
 1. Print the STL files for the sign and the button
 1. Assemble the button and the sign according the explosion picture
+1. Flash the arduinos with the arduino IDE
 
 ## Remixed from
 
