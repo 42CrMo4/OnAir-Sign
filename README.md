@@ -2,6 +2,9 @@
 433MHz operated On Air sign for a music studio or a Radio Station to signal that music production is in porgress. 
 This project consits of two Arduinos (Pro Mini, Nano or similar), LED Strips and the communication Modul HC-12. 
 
+ToDo:
+what it does and how it works
+
 ## Materials
 * 2x Arduino Nano (alternativ Pro Mini or similar)
 * 4x Cherry MX switches
@@ -10,7 +13,7 @@ This project consits of two Arduinos (Pro Mini, Nano or similar), LED Strips and
   * Strip WS2812b 
   * Circle PCB WS2812b
 * 2x Capacitor 22 µF to 1 mF
-* 2x Micro USB breakout board (for reference something like (that)[https://www.ebay.com/itm/5Pcs-Micro-USB-Board-Power-Adapter-5V-Breakout-Switch-Interface-Module-F-Arduino/153733325920?hash=item23cb386460:g:TX4AAOSwbb5d1qM8] of ebay)
+* 2x Micro USB breakout board (for reference something like [that](https://www.ebay.com/itm/5Pcs-Micro-USB-Board-Power-Adapter-5V-Breakout-Switch-Interface-Module-F-Arduino/153733325920?hash=item23cb386460:g:TX4AAOSwbb5d1qM8) of ebay)
 * M3 inseters
 * screws
 
@@ -32,6 +35,8 @@ This project consits of two Arduinos (Pro Mini, Nano or similar), LED Strips and
 1. Print the STL files for the sign and the button
 1. Assemble the button and the sign according the explosion picture
 1. Flash the arduinos with the arduino IDE
+
+The code is "copy and paste" quality. 
 
 ## Remixed from
 
