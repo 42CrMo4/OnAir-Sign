@@ -3,14 +3,14 @@
 This project consits of two Arduinos (Pro Mini, Nano or similar), LED Strips and the communication Modul HC-12. 
 
 ## Materials
-* Arduino Nano 2x (alternativ Pro Mini or similar)
-* Cherry MX switches 4x
-* HC-12 Module 2x 
+* 2x Arduino Nano (alternativ Pro Mini or similar)
+* 4x Cherry MX switches
+* 2x  HC-12 Module
 * LEDs (all LEDs supported by the [FastLED](https://github.com/FastLED/FastLED) Library are possible)
   * Strip WS2812b 
   * Circle PCB WS2812b
-* Capacitor 2x 22 µF to 1 mF
-* Micro USB breakout board (2x) (for reference something like (that)[https://www.ebay.com/itm/5Pcs-Micro-USB-Board-Power-Adapter-5V-Breakout-Switch-Interface-Module-F-Arduino/153733325920?hash=item23cb386460:g:TX4AAOSwbb5d1qM8] of ebay)
+* 2x Capacitor 22 µF to 1 mF
+* 2x Micro USB breakout board (for reference something like (that)[https://www.ebay.com/itm/5Pcs-Micro-USB-Board-Power-Adapter-5V-Breakout-Switch-Interface-Module-F-Arduino/153733325920?hash=item23cb386460:g:TX4AAOSwbb5d1qM8] of ebay)
 * M3 inseters
 * screws
 
