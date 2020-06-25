@@ -2,8 +2,18 @@
 433MHz operated On Air sign for a music studio or a Radio Station to signal that music production is in porgress. 
 This project consits of two Arduinos (Pro Mini, Nano or similar), LED Strips and the communication Modul HC-12. 
 
-ToDo:
-what it does and how it works
+## Functional principle
+
+With a press on the button a ON signal is send to the sign. The sign then turns on the LEDs and sends an acknowledgment back to the button. If the button receives the confirmation it will turn on its LEDs. The key ignores all key presses in a period of 800ms from the first press. 
+
+![](media/communication-diagramm.svg)
+
+Possible improvememts:
+* debounce for button
+* no acknowledgment after button press, resend the signal
+* handle the state of LEDs more efficent
+* button ignore period interconnect with the acknowledgment signal
+
 
 ## Materials
 * 2x Arduino Nano (alternativ Pro Mini or similar)
